@@ -56,8 +56,6 @@ Although Random Forest achieved slightly higher accuracy, Logistic Regression wa
 
 ## Files
 
-## Files
-
 - `notebook/credit_risk_analysis.ipynb`: Python analysis and machine learning workflow
 - `output/cleaned_german_credit_data.csv`: Cleaned dataset used for Power BI
 - `output/model_predictions.csv`: Model prediction results
