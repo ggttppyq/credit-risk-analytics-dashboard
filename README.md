@@ -34,7 +34,7 @@ The dataset contains 1,000 credit applicants with 20 original financial and demo
 
 ## Dashboard Preview
 
-![Credit Risk Portfolio Dashboard](images/credit_risk_dashboard.png)
+![Credit Risk Portfolio Dashboard](credit_risk_dashboard.png)
 
 ## Key Insights
 
