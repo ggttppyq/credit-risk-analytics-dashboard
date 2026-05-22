@@ -60,4 +60,4 @@ Although Random Forest achieved slightly higher accuracy, Logistic Regression wa
 - `output/cleaned_german_credit_data.csv`: Cleaned dataset used for Power BI
 - `output/model_predictions.csv`: Model prediction results
 - `images/credit_risk_dashboard.png`: Power BI dashboard screenshot
-- `powerbi/credit_risk_dashboard.pbix`: Interactive Power BI dashboard file, if available
+- `powerbi/Credit Risk Executive Overview.pbix`: Interactive Power BI dashboard file
